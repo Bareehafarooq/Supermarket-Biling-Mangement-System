@@ -1,1 +1,1 @@
-# Project6
+This project was developed during the 1st semester as part of the Computer Programming course. It involved the application of fundamental programming concepts to create a billing system for a supermarket. The project aimed to simulate real-world scenarios and enhance understanding of programming principles through practical implementation.
